@@ -1,0 +1,6 @@
+@Cloud_Mall.API_HostAddress = http://localhost:5065
+
+GET {{Cloud_Mall.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
