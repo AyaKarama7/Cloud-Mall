@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\ITI\\Projects\\Cloud-Mall\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4E59554-B552-48E2-80B9-B945A16C9642}|Cloud-Mall.Infrastructure\\Cloud-Mall.Infrastructure.csproj|f:\\iti\\projects\\cloud-mall\\cloud-mall.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4E59554-B552-48E2-80B9-B945A16C9642}|Cloud-Mall.Infrastructure\\Cloud-Mall.Infrastructure.csproj|solutionrelative:cloud-mall.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{132BA180-7B0B-40BE-B1B7-EE4FE37499D7}|Cloud-Mall.Domain\\Cloud-Mall.Domain.csproj|f:\\iti\\projects\\cloud-mall\\cloud-mall.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{132BA180-7B0B-40BE-B1B7-EE4FE37499D7}|Cloud-Mall.Domain\\Cloud-Mall.Domain.csproj|solutionrelative:cloud-mall.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B782FECC-825E-4FF3-B87D-E23AE0FF2806}|Cloud-Mall.Application\\Cloud-Mall.Application.csproj|f:\\iti\\projects\\cloud-mall\\cloud-mall.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B782FECC-825E-4FF3-B87D-E23AE0FF2806}|Cloud-Mall.Application\\Cloud-Mall.Application.csproj|solutionrelative:cloud-mall.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "F:\\ITI\\Projects\\Cloud-Mall\\Cloud-Mall.Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "Cloud-Mall.Infrastructure\\Class1.cs",
+              "ToolTip": "F:\\ITI\\Projects\\Cloud-Mall\\Cloud-Mall.Infrastructure\\Class1.cs",
+              "RelativeToolTip": "Cloud-Mall.Infrastructure\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T18:49:06.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "F:\\ITI\\Projects\\Cloud-Mall\\Cloud-Mall.Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "Cloud-Mall.Domain\\Class1.cs",
+              "ToolTip": "F:\\ITI\\Projects\\Cloud-Mall\\Cloud-Mall.Domain\\Class1.cs",
+              "RelativeToolTip": "Cloud-Mall.Domain\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T18:48:38.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "F:\\ITI\\Projects\\Cloud-Mall\\Cloud-Mall.Application\\Class1.cs",
+              "RelativeDocumentMoniker": "Cloud-Mall.Application\\Class1.cs",
+              "ToolTip": "F:\\ITI\\Projects\\Cloud-Mall\\Cloud-Mall.Application\\Class1.cs",
+              "RelativeToolTip": "Cloud-Mall.Application\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T18:48:15.955Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
